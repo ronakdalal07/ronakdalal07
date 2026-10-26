@@ -12,7 +12,7 @@ I'm an ethical hacker on a mission to outsmart firewalls and explore the digital
 
 ### 💻 Tech Stack
 
-![Pentesting](https://img.shields.io/badge/Pentesting-333?style=for-the-badge&logo=pentesting&logoColor=white) ![ethical hacking](https://img.shields.io/badge/ethical%20hacking-333?style=for-the-badge&logo=ethicalhacking&logoColor=white) ![cyber security](https://img.shields.io/badge/cyber%20security-333?style=for-the-badge&logo=cybersecurity&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/c-333?style=for-the-badge&logo=c&logoColor=white)
+![ethical hacking](https://img.shields.io/badge/ethical%20hacking-333?style=for-the-badge&logo=ethicalhacking&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/c-333?style=for-the-badge&logo=c&logoColor=white)
 
 
 
